@@ -1,0 +1,15 @@
+/workspaces/MyFirstRepo/ProjectOne/probando/bin/Debug/net10.0/probando
+/workspaces/MyFirstRepo/ProjectOne/probando/bin/Debug/net10.0/probando.deps.json
+/workspaces/MyFirstRepo/ProjectOne/probando/bin/Debug/net10.0/probando.runtimeconfig.json
+/workspaces/MyFirstRepo/ProjectOne/probando/bin/Debug/net10.0/probando.dll
+/workspaces/MyFirstRepo/ProjectOne/probando/bin/Debug/net10.0/probando.pdb
+/workspaces/MyFirstRepo/ProjectOne/probando/obj/Debug/net10.0/probando.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MyFirstRepo/ProjectOne/probando/obj/Debug/net10.0/probando.AssemblyInfoInputs.cache
+/workspaces/MyFirstRepo/ProjectOne/probando/obj/Debug/net10.0/probando.AssemblyInfo.cs
+/workspaces/MyFirstRepo/ProjectOne/probando/obj/Debug/net10.0/probando.csproj.CoreCompileInputs.cache
+/workspaces/MyFirstRepo/ProjectOne/probando/obj/Debug/net10.0/probando.sourcelink.json
+/workspaces/MyFirstRepo/ProjectOne/probando/obj/Debug/net10.0/probando.dll
+/workspaces/MyFirstRepo/ProjectOne/probando/obj/Debug/net10.0/refint/probando.dll
+/workspaces/MyFirstRepo/ProjectOne/probando/obj/Debug/net10.0/probando.pdb
+/workspaces/MyFirstRepo/ProjectOne/probando/obj/Debug/net10.0/probando.genruntimeconfig.cache
+/workspaces/MyFirstRepo/ProjectOne/probando/obj/Debug/net10.0/ref/probando.dll
